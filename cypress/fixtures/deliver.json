@@ -1,0 +1,51 @@
+{
+    "signup": {
+            "name": "Robson Felix",
+            "cpf": "00000014112",
+            "email":"robson@hotmail.com",
+            "whatsapp": "71999999999",
+            "address":{
+                "postalcode": "42808065",
+                "street": "Rua Catuama",
+                "number": "1000",
+                "details": "Casa 198",
+                "district": "Tancredo Neves",
+                "city_state": "Camaçari/BA"
+            },
+            "delivery_method": "Moto",
+            "cnh":  "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Joao Felix",
+            "cpf": "000000141AA",
+            "email":"joao@hotmail.com",
+            "whatsapp": "71988775566",
+            "address":{
+                "postalcode": "42808065",
+                "street": "Rua Catuama",
+                "number": "1000",
+                "details": "Casa 198",
+                "district": "Tancredo Neves",
+                "city_state": "Camaçari/BA"
+            },
+            "delivery_method": "Moto",
+            "cnh":  "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Fulano da Silva",
+        "cpf": "00000014112",
+        "email":"fulaninho.com.br",
+        "whatsapp": "71999999999",
+        "address":{
+            "postalcode": "42808065",
+            "street": "Rua Catuama",
+            "number": "1000",
+            "details": "Casa 198",
+            "district": "Tancredo Neves",
+            "city_state": "Camaçari/BA"
+        },
+        "delivery_method": "Moto",
+        "cnh":  "cnh-digital.jpg"
+}
+    
+}
